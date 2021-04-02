@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+<!-- <br /> -->
+
+![](https://live.staticflickr.com/8585/16731534112_985c0bdba3_h.jpg)
+
+
+<p style="font-family: Arvo, Monaco, serif;
+  line-height:1.3;
+	font-weight: normal;font-size: 30px;">Workshop on <br /> Reliable and Resilient Digital Manufacturing</p>
+
+
+## Scope
+
+We welcome contributions from academia, industry and governmental entities with interdisciplinary backgrounds to facilitate the growth of the new area of digital manufacturing.
+The topics of interest to the workshop include but are not limited to:
+
+* Security and privacy in digital manufacturing
+* Additive manufacturing as a Cyber-physical system
+* Reliability in manufacturing ecosystems
+* Artificial intelligence for manufacturing
+* Signal processing and robotics for manufacturing
+* Technological barriers in digital manufacturing
+* Network security for digital manufacturing
+* Resilient manufacturing systems and cybersecurity
+* Intrusion and anomaly detection
+* Standards for digital manufacturing
+* Human in the loop in digital manufacturing
+* Resilience metrics for manufacturing
+* Control-theoretic approaches in manufacturing
+* Economics of future manufacturing technologies
+* Hardware-assisted digital manufacturing
+* Encryption and authentication for manufacturing
+* Innovations in computer-aided design
+* Safety concerns in future manufacturing
+* Understanding barriers/enablers in modern manufacturing
+
+
+Also, of interest will be contributions that can point the research community to new research directions, and those that can set research agendas and priorities in reliable and resilient digital manufacturing.
+
+## Contributions Guidelines
+Acceptable submissions include:
+* Systematization of Knowledge (SoK) presentations, 
+* Original research presentations, 
+* Demos, and 
+* Posters.
+
+The top submissions will be invited to IEEE Embedded System Letters (ESL) journal.
+
+
+<p> <strong> Please submit your contributions at <a href="https://hotcrp.engineering.nyu.edu/"> <strong> https://hotcrp.engineering.nyu.edu/ </strong> </a> </strong> </p>
+
+
+
+## Important Dates
+
+
+* Submission Deadline: **May 1, 2021** (23:59 Anywhere on Earth time)
+* Notification to authors: **June 1, 2021** (23:59 Anywhere on Earth time)
+* Final versions Due: **July 1, 2021** (23:59 Anywhere on Earth time)
+
+
+## Organizing Committee
+*	Nektarios Tsoutsos, University of Delaware
+*	Nikhil Gupta, New York University
+*	Ramesh Karri, New York University
+*	Hammond Pearce, New York University
+
