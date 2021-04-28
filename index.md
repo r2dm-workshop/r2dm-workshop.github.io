@@ -47,7 +47,7 @@ Acceptable submissions include:
 * Demos, and 
 * Posters.
 
-The top submissions will be invited to IEEE Embedded System Letters (ESL) journal.
+<!-- The top submissions will be invited to IEEE Embedded System Letters (ESL) journal. -->
 
 
 <p> <strong> Please submit your contributions at <a href="https://hotcrp.engineering.nyu.edu/"> <strong> https://hotcrp.engineering.nyu.edu/ </strong> </a> </strong> (Submissions will open May 15) </p>
