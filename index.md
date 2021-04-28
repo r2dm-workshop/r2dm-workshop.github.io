@@ -50,16 +50,16 @@ Acceptable submissions include:
 The top submissions will be invited to IEEE Embedded System Letters (ESL) journal.
 
 
-<p> <strong> Please submit your contributions at <a href="https://hotcrp.engineering.nyu.edu/"> <strong> https://hotcrp.engineering.nyu.edu/ </strong> </a> </strong> </p>
+<p> <strong> Please submit your contributions at <a href="https://hotcrp.engineering.nyu.edu/"> <strong> https://hotcrp.engineering.nyu.edu/ </strong> </a> </strong> (Submissions will open May 15) </p>
 
 
 
 ## Important Dates
 
 
-* Submission Deadline: **May 1, 2021** (23:59 Anywhere on Earth time)
-* Notification to authors: **June 1, 2021** (23:59 Anywhere on Earth time)
-* Final versions Due: **July 1, 2021** (23:59 Anywhere on Earth time)
+* Submission Deadline: **June 1, 2021** (23:59 Anywhere on Earth time)
+* Notification to authors: **June 21, 2021** (23:59 Anywhere on Earth time)
+* Final versions Due: **July 15, 2021** (23:59 Anywhere on Earth time)
 
 
 ## Organizing Committee
