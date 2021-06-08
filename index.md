@@ -9,7 +9,7 @@ layout: default
 
 <p style="font-family: Arvo, Monaco, serif;
   line-height:1.3;
-	font-weight: normal;font-size: 30px;">Workshop on <br /> Reliable and Resilient Digital Manufacturing</p>
+	font-weight: normal;font-size: 30px;">IEEE Workshop on <br /> Reliable and Resilient Digital Manufacturing</p>
 
 
 ## Scope
@@ -47,7 +47,7 @@ Acceptable submissions include:
 * Demos, and 
 * Posters.
 
-Top submissions will be invited to q special issue of IEEE Embedded System Letters (ESL) on Reliable and Resilient Digital Manufacturing.
+Top submissions will be invited to a special issue of IEEE Embedded System Letters (ESL) on Reliable and Resilient Digital Manufacturing.
 
 
 <p> <strong> Please submit your contributions at <a href="https://hotcrp.engineering.nyu.edu/"> <strong> https://hotcrp.engineering.nyu.edu/ </strong> </a> </strong> (Submissions will open June 21) </p>
@@ -68,7 +68,7 @@ Top submissions will be invited to q special issue of IEEE Embedded System Lette
 *	Ramesh Karri, New York University
 *	Hammond Pearce, New York University
 
-## Sponsors
+## Workshop Sponsors
 
 ![NSF](https://github.com/r2dm-workshop/r2dm-workshop.github.io/raw/main/nsf.png)
 
