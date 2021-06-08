@@ -47,7 +47,7 @@ Acceptable submissions include:
 * Demos, and 
 * Posters.
 
-<!-- The top submissions will be invited to IEEE Embedded System Letters (ESL) journal. -->
+Top submissions will be invited to q special issue of IEEE Embedded System Letters (ESL) on Reliable and Resilient Digital Manufacturing.
 
 
 <p> <strong> Please submit your contributions at <a href="https://hotcrp.engineering.nyu.edu/"> <strong> https://hotcrp.engineering.nyu.edu/ </strong> </a> </strong> (Submissions will open June 21) </p>
@@ -68,3 +68,8 @@ Acceptable submissions include:
 *	Ramesh Karri, New York University
 *	Hammond Pearce, New York University
 
+## Sponsors
+
+![NSF](https://github.com/r2dm-workshop/r2dm-workshop.github.io/raw/main/nsf.png)
+
+![IEEE](https://github.com/r2dm-workshop/r2dm-workshop.github.io/raw/main/ieee.png)
