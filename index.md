@@ -50,7 +50,7 @@ Acceptable submissions include:
 Top submissions will be invited to a special issue of IEEE Embedded System Letters (ESL) on Reliable and Resilient Digital Manufacturing.
 
 
-<p> <strong> Please submit your contributions at <a href="https://hotcrp.engineering.nyu.edu/"> <strong> https://hotcrp.engineering.nyu.edu/ </strong> </a> </strong> (Submissions will open June 21) </p>
+<p> <strong> Please submit your contributions at <a href="https://hotcrp2.engineering.nyu.edu/"> <strong> https://hotcrp2.engineering.nyu.edu/ </strong> </a> </strong> (Submissions will open June 25) </p>
 
 
 
