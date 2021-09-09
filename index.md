@@ -11,6 +11,12 @@ layout: default
   line-height:1.3;
 	font-weight: normal;font-size: 30px;">IEEE Workshop on <br /> Reliable and Resilient Digital Manufacturing</p>
 
+## REGISTRATION
+<p> <strong> Please register for FREE at <a href="https://r2dm2021.eventbrite.com/"> <strong> https://r2dm2021.eventbrite.com/ </strong> </a> </strong> </p>
+
+## AGENDA
+<p> <strong> [The agenda for the workshop is available here](IEEE_R2DM_Workshop_2021_Agenda.pdf)</strong> </p>
+
 
 ## Scope
 
@@ -48,19 +54,6 @@ Acceptable submissions include:
 * Posters.
 
 Top submissions will be invited to a special issue of IEEE Embedded System Letters (ESL) on Reliable and Resilient Digital Manufacturing.
-
-
-## REGISTRATION
-<p> <strong> Please register for FREE at <a href="https://r2dm2021.eventbrite.com/"> <strong> https://r2dm2021.eventbrite.com/ </strong> </a> </strong> </p>
-
-
-
-## Important Dates
-
-
-* Submission Deadline: **July 23, 2021** (23:59 Anywhere on Earth time)
-* Notification to authors: **August 30, 2021** (23:59 Anywhere on Earth time)
-* Final versions Due: **September 10, 2021** (23:59 Anywhere on Earth time)
 
 
 ## Organizing Committee
