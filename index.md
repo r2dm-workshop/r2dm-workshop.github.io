@@ -15,7 +15,7 @@ layout: default
 <p> <strong> Please register for FREE at <a href="https://r2dm2021.eventbrite.com/"> <strong> https://r2dm2021.eventbrite.com/ </strong> </a> </strong> </p>
 
 ## AGENDA
-<p> <strong> [The agenda for the workshop is available here](IEEE_R2DM_Workshop_2021_Agenda.pdf)</strong> </p>
+The agenda for the workshop [is available here](IEEE_R2DM_Workshop_2021_Agenda.pdf)
 
 
 ## Scope
