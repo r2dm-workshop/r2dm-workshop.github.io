@@ -17,6 +17,9 @@ layout: default
 ## AGENDA
 <p> <strong> The agenda for the workshop <a href="https://github.com/r2dm-workshop/r2dm-workshop.github.io/raw/main/IEEE_R2DM_Workshop_2021_Agenda.pdf"> <strong> is available here. </strong> </a> </strong> </p>
 
+## BOOK OF ABSTRACTS
+<p> <strong> The book of abstracts for the workshop <a href="https://github.com/r2dm-workshop/r2dm-workshop.github.io/raw/main/IEEE_R2DM_Workshop_2021__Abstract_Booklet.pdf"> <strong> is available here. </strong> </a> </strong> </p>
+
 
 
 
