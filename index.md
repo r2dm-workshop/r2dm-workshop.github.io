@@ -12,21 +12,23 @@ layout: default
 	font-weight: normal;font-size: 30px;">IEEE Workshop on <br /> Reliable and Resilient Digital Manufacturing</p>
 
 ## REGISTRATION
-<p> <strong> Please register for FREE at <a href="https://r2dm2021.eventbrite.com/"> <strong> https://r2dm2021.eventbrite.com/ </strong> </a> </strong> </p>
+<p> <strong> To attend the workshop, please register for FREE at <a href="https://r2dm2024.eventbrite.com/"> <strong> https://r2dm2024.eventbrite.com/ </strong> </a> </strong> </p>
+
+## DATE and LOCATION
+<p> <strong> The 2024 Workshop will take place on April 18-19, 2024 at New York University, Tandon School of Engineering 5 Metrotech Center room LC400 </strong> </p>
 
 ## AGENDA
-<p> <strong> The agenda for the workshop <a href="https://github.com/r2dm-workshop/r2dm-workshop.github.io/raw/main/IEEE_R2DM_Workshop_2021_Agenda.pdf"> <strong> is available here. </strong> </a> </strong> </p>
+<p> <strong> The agenda for the workshop <a href="https://github.com/r2dm-workshop/r2dm-workshop.github.io/raw/main/IEEE_R2DM_Workshop_2024_Agenda.pdf"> <strong> is available here. </strong> </a> </strong> </p>
 
-## BOOK OF ABSTRACTS
-<p> <strong> The book of abstracts for the workshop <a href="https://github.com/r2dm-workshop/r2dm-workshop.github.io/raw/main/IEEE_R2DM_Workshop_2021__Abstract_Booklet.pdf"> <strong> is available here. </strong> </a> </strong> </p>
+## BOOK OF ABSTRACTS (2023)
+<p> <strong> The book of abstracts for the 2023 workshop <a href="https://github.com/r2dm-workshop/r2dm-workshop.github.io/raw/main/IEEE_R2DM_Workshop_2023_Abstract_Booklet.pdf"> <strong> is available here. </strong> </a> </strong> </p>
 
 
 
 
 ## Scope
 
-We welcome contributions from academia, industry and governmental entities with interdisciplinary backgrounds to facilitate the growth of the new area of digital manufacturing.
-The topics of interest to the workshop include but are not limited to:
+The workshop focuses on contributions from academia, industry and governmental entities with interdisciplinary backgrounds to facilitate the growth of the new area of digital manufacturing. The topics of interest to the workshop include but are not limited to:
 
 * Security and privacy in digital manufacturing
 * Additive manufacturing as a Cyber-physical system
@@ -48,24 +50,12 @@ The topics of interest to the workshop include but are not limited to:
 * Safety concerns in future manufacturing
 * Understanding barriers/enablers in modern manufacturing
 
-
-Also, of interest will be contributions that can point the research community to new research directions, and those that can set research agendas and priorities in reliable and resilient digital manufacturing.
-
-## Contributions Guidelines
-Acceptable submissions include:
-* Systematization of Knowledge (SoK) presentations, 
-* Original research presentations, 
-* Demos, and 
-* Posters.
-
-Top submissions will be invited to a special issue of IEEE Embedded System Letters (ESL) on Reliable and Resilient Digital Manufacturing.
-
+Also, of interest are contributions that can point the research community to new research directions, and those that can set research agendas and priorities in reliable and resilient digital manufacturing.
 
 ## Organizing Committee
-*	Nektarios Tsoutsos, University of Delaware
 *	Nikhil Gupta, New York University
 *	Ramesh Karri, New York University
-*	Hammond Pearce, New York University
+*	Nektarios Tsoutsos, University of Delaware
 
 ## Workshop Sponsors
 
