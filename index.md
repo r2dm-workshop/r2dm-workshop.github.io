@@ -33,23 +33,16 @@ The workshop focuses on contributions from academia, industry and governmental e
 
 * Security and privacy in digital manufacturing
 * Additive manufacturing as a Cyber-physical system
-* Reliability in manufacturing ecosystems
 * Artificial intelligence for manufacturing
 * Signal processing and robotics for manufacturing
-* Technological barriers in digital manufacturing
 * Network security for digital manufacturing
 * Resilient manufacturing systems and cybersecurity
 * Intrusion and anomaly detection
 * Standards for digital manufacturing
-* Human in the loop in digital manufacturing
-* Resilience metrics for manufacturing
 * Control-theoretic approaches in manufacturing
-* Economics of future manufacturing technologies
-* Hardware-assisted digital manufacturing
 * Encryption and authentication for manufacturing
 * Innovations in computer-aided design
-* Safety concerns in future manufacturing
-* Understanding barriers/enablers in modern manufacturing
+* Workforce development and training 
 
 Also, of interest are contributions that can point the research community to new research directions, and those that can set research agendas and priorities in reliable and resilient digital manufacturing.
 
