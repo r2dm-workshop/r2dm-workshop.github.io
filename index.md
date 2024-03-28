@@ -18,7 +18,7 @@ layout: default
 <p> <strong> The 2024 Workshop will take place on April 18-19, 2024 at New York University, Tandon School of Engineering 5 Metrotech Center room LC400 </strong> </p>
 
 ## BOOK OF ABSTRACTS (2024)
-<p> <strong> The book of abstracts for the 2024 workshop <!--<a href="https://github.com/r2dm-workshop/r2dm-workshop.github.io/raw/main/IEEE_R2DM_Workshop_2023_Abstract_Booklet.pdf"> --> <strong>  will be added here here. </strong> </a> </strong> </p>
+<p> <strong> The book of abstracts for the 2024 workshop <!--<a href="https://github.com/r2dm-workshop/r2dm-workshop.github.io/raw/main/IEEE_R2DM_Workshop_2023_Abstract_Booklet.pdf"> --> <strong>  will be added here here.  </strong> </p>
 
 ## BOOK OF ABSTRACTS (2023)
 <p> <strong> The book of abstracts for the 2023 workshop <a href="https://github.com/r2dm-workshop/r2dm-workshop.github.io/raw/main/IEEE_R2DM_Workshop_2023_Abstract_Booklet.pdf"> <strong> is available here. </strong> </a> </strong> </p>
