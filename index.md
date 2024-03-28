@@ -12,7 +12,7 @@ layout: default
 	font-weight: normal;font-size: 30px;">IEEE Workshop on <br /> Reliable and Resilient Digital Manufacturing</p>
 
 ## REGISTRATION
-<p> <strong> To attend the workshop, please register for FREE at <a href="https://r2dm2024.eventbrite.com/"> <strong> https://r2dm2024.eventbrite.com/ </strong> </a> </strong> </p>
+<p> <strong> To attend the workshop, please register for FREE at <a href="https://events.humanitix.com/r2dm3"> <strong> https://r2dm2024.eventbrite.com/ </strong> </a> </strong> </p>
 
 ## DATE and LOCATION
 <p> <strong> The 2024 Workshop will take place on April 18-19, 2024 at New York University, Tandon School of Engineering 5 Metrotech Center room LC400 </strong> </p>
