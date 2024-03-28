@@ -12,7 +12,7 @@ layout: default
 	font-weight: normal;font-size: 30px;">IEEE Workshop on <br /> Reliable and Resilient Digital Manufacturing</p>
 
 ## REGISTRATION
-<p> <strong> To attend the workshop, please register for FREE at <a href="https://events.humanitix.com/r2dm3"> <strong> https://r2dm2024.eventbrite.com/ </strong> </a> </strong> </p>
+<p> <strong> To attend the workshop, please register for FREE at <a href="https://events.humanitix.com/r2dm3"> <strong> https://events.humanitix.com/r2dm3 </strong> </a> </strong> </p>
 
 ## DATE and LOCATION
 <p> <strong> The 2024 Workshop will take place on April 18-19, 2024 at New York University, Tandon School of Engineering 5 Metrotech Center room LC400 </strong> </p>
@@ -23,7 +23,8 @@ layout: default
 ## BOOK OF ABSTRACTS (2023)
 <p> <strong> The book of abstracts for the 2023 workshop <a href="https://github.com/r2dm-workshop/r2dm-workshop.github.io/raw/main/IEEE_R2DM_Workshop_2023_Abstract_Booklet.pdf"> <strong> is available here. </strong> </a> </strong> </p>
 
-
+## BOOK OF ABSTRACTS (2021)
+<p> <strong> The book of abstracts for the 2023 workshop <a href="https://github.com/r2dm-workshop/r2dm-workshop.github.io/raw/main/R2DM Abstract Booklet.pdf"> <strong> is available here. </strong> </a> </strong> </p>
 
 
 ## Scope
