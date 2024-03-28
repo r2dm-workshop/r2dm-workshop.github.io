@@ -17,9 +17,9 @@ layout: default
 ## DATE and LOCATION
 <p> <strong>  April 18-19, 2024 
 	    
-5 Metrotech Center, room LC400 
+5 Metrotech Center, Room LC400, 
              
-New York University, Tandon School of Engineering </strong> </p>
+New York University, Tandon School of Engineering, Brooklyn 11201 </strong> </p>
 
 ## BOOK OF ABSTRACTS (R2DM3-2024)
 <p> <strong> The book of abstracts for the 2024 workshop <!--<a href="https://github.com/r2dm-workshop/r2dm-workshop.github.io/raw/main/IEEE_R2DM_Workshop_2023_Abstract_Booklet.pdf"> --> <strong> will be added here.  </strong> </strong> </p>
