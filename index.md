@@ -51,6 +51,9 @@ Also, of interest are contributions that can point the research community to new
 *	Ramesh Karri, New York University
 *	Nektarios Tsoutsos, University of Delaware
 
+## Acknowledgments
+The organization of the R2DM workshop was been supported by NSF awards CMMI-2036802, DGE-1931724, and CCRI-2234974.
+
 ## Workshop Sponsors
 
 ![NSF](https://github.com/r2dm-workshop/r2dm-workshop.github.io/raw/main/nsf.png)
