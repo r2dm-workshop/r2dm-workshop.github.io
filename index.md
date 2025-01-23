@@ -15,7 +15,7 @@ layout: default
 <p> <strong> To attend the workshop, please register for FREE at <a href="https://events.humanitix.com/r2dm3"> <strong> https://events.humanitix.com/r2dm3 </strong> </a> </strong> </p> -->
 
 ## ABSTRACT SUMISSION
-<p> <strong> Please submit an abstract with the link <a href="https://forms.gle/2XEvZhSMnQNwPvVz9"> <strong> https://forms.gle/2XEvZhSMnQNwPvVz9 </strong> </a> </strong> </p>
+<p> <strong> Please submit your abstract using the link <a href="https://forms.gle/2XEvZhSMnQNwPvVz9"> <strong> https://forms.gle/2XEvZhSMnQNwPvVz9 </strong> </a> </strong> </p>
 
 ## DATE and LOCATION
 <p> <strong>  May 1-2, 2025  <br /> New York University, Tandon School of Engineering, <br /> Jay370 Room 1201 Brooklyn NY 11201 </strong> </p>
