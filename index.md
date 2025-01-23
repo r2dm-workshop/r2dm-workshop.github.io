@@ -20,8 +20,13 @@ layout: default
 ## DATE and LOCATION
 <p> <strong>  May 1-2, 2025  <br /> New York University, Tandon School of Engineering, <br /> Jay370 Room 1201 Brooklyn NY 11201 </strong> </p>
 
+<!-- ## KEY DATES
+<p> <strong>  Abstract Submission Deadline: February 14, 2025  <br /> Author Notification: February 21, 2025 <br /> Three-Page Paper Submission Deadline: March 17, 2025 </strong> </p> -->
+
 ## KEY DATES
-<p> <strong>  Abstract Submission Deadline: February 14, 2025  <br /> Author Notification: February 21, 2025 <br /> Three-Page Paper Submission Deadline: March 17, 2025 </strong> </p>
+* Abstract Submission Deadline: February 14, 2025  
+* Author Notification: February 21, 2025 
+* Three-Page Paper Submission Deadline: March 17, 2025
 
 ## BOOK OF ABSTRACTS (R2DM3-2024)
 <p> <strong> The book of abstracts for the 2024 workshop <a href="https://github.com/r2dm-workshop/r2dm-workshop.github.io/raw/main/R2DM3 Book Of Abstracts.pdf"> <strong> is available here. </strong> </a> </strong> </p>
@@ -56,6 +61,8 @@ Also, of interest are contributions that can point the research community to new
 *	Nikhil Gupta, New York University
 *	Ramesh Karri, New York University
 *	Nektarios Tsoutsos, University of Delaware
+* Susheem Kanwar, New York University
+* Jiangce Chen, New York University
 
 ## Acknowledgments
 The organization of the R2DM workshop was been supported by NSF awards CMMI-2036802, DGE-1931724, and CCRI-2234974.
