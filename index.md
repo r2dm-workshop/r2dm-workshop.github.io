@@ -11,11 +11,17 @@ layout: default
   line-height:1.3;
 	font-weight: normal;font-size: 30px;">IEEE Workshop on <br /> Reliable and Resilient Digital Manufacturing</p>
 
-## REGISTRATION
-<p> <strong> To attend the workshop, please register for FREE at <a href="https://events.humanitix.com/r2dm3"> <strong> https://events.humanitix.com/r2dm3 </strong> </a> </strong> </p>
+<!-- ## REGISTRATION
+<p> <strong> To attend the workshop, please register for FREE at <a href="https://events.humanitix.com/r2dm3"> <strong> https://events.humanitix.com/r2dm3 </strong> </a> </strong> </p> -->
+
+## ABSTRACT SUMISSION
+<p> <strong> Please submit an abstract with the link <a href="https://forms.gle/2XEvZhSMnQNwPvVz9"> <strong> https://forms.gle/2XEvZhSMnQNwPvVz9 </strong> </a> </strong> </p>
 
 ## DATE and LOCATION
-<p> <strong>  April 18-19, 2024  <br /> New York University, Tandon School of Engineering, <br /> 5 Metrotech Center, Room LC400, Brooklyn, NY 11201 </strong> </p>
+<p> <strong>  May 1-2, 2025  <br /> New York University, Tandon School of Engineering, <br /> Jay370 Room 1201 Brooklyn NY 11201 </strong> </p>
+
+## KEY DATES
+<p> <strong>  Abstract Submission Deadline: February 14, 2025  <br /> Author Notification: February 21, 2025 <br /> Three-Page Paper Submission Deadline: March 17, 2025 </strong> </p>
 
 ## BOOK OF ABSTRACTS (R2DM3-2024)
 <p> <strong> The book of abstracts for the 2024 workshop <a href="https://github.com/r2dm-workshop/r2dm-workshop.github.io/raw/main/R2DM3 Book Of Abstracts.pdf"> <strong> is available here. </strong> </a> </strong> </p>
